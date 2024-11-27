@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .backgroundImageContainer{
+  background-image: url('./assets/images/pattern-bg-desktop.png');
+} */
